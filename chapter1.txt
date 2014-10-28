@@ -1,3 +1,3 @@
 The quick brown fox jumped over the lazy dog.
 
-The dog was not best pleased.
+The dog was not best pleased, and barked angrily.
